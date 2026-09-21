@@ -134,16 +134,16 @@ keeping an eye on
 <br>
 
 <!-- EDIT: your real links, delete any you don't want -->
-<a href="YOUR_INSTAGRAM_URL" target="_blank">
+<a href="https://www.reddit.com/r/FuckNestle/comments/hmv0nv/the_reasons_why_we_hate_nestle_so_much/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" />
 </a>
-<a href="YOUR_TIKTOK_URL" target="_blank">
+<a href="https://theuselessweb.com" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-0d1117?style=for-the-badge&logo=tiktok&logoColor=39d353" />
 </a>
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.youtube.com/watch?v=R-3DRTQz4sk" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="johannentrepreneur@gmail.com">
   <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
 </a>
 
