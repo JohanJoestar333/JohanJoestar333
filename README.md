@@ -107,10 +107,9 @@ most of my free time goes to my girlfriend
 
 <!-- EDIT: optional. delete this whole block if you don't want it.
      swap "ripple" for another coingecko coin id to track something else. -->
-### on-chain 💚
+### keeping an eye on 💚
+<a href="https://coinmarketcap.com/currencies/xrp/" target="_blank">XRP</a> is the future
 
-keeping an eye on
-<a href="https://coinmarketcap.com/currencies/xrp/" target="_blank">XRP</a>
 
 <a href="https://www.coingecko.com/en/coins/ripple" target="_blank">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dripple%26vs_currencies%3Dusd&label=XRP&query=%24.ripple.usd&prefix=%24&color=39d353&style=for-the-badge&logo=ripple&logoColor=39d353" />
@@ -145,6 +144,10 @@ keeping an eye on
 </a>
 <a href="johannentrepreneur@gmail.com">
   <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
+</a>
+</a>
+<a href="https://en.wikipedia.org/wiki/Unemployment">
+  <img src="https://img.shields.io/badge/facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=39d353" />
 </a>
 
 <br>
