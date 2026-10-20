@@ -1,19 +1,19 @@
 <!-- comments like this won't show on your profile. search "EDIT" to find what to change. -->
 
 <!-- EDIT: your intro -->
-# hey, i'm johan. 🌱
+# hey, i'm thomas (aka johan). 🌱
 
-i make things.
+qa analyst by day. i break things on purpose so users don't break them by accident.
 
-sometimes they're useful. sometimes they're just ideas i had at 2am.
+the rest of the time i make things. sometimes they're useful. sometimes they're just ideas i had at 2am.
 
 this is where i put them.
 
 <br>
 
-<!-- EDIT: this points to a gif sitting in your repo's assets folder -->
+<!-- EDIT: this points to a gif sitting in your repo -->
 <img
-  src="https://github.com/JohanJoestar333/JohanJoestar333/blob/main/programmingmarion.gif"
+  src="https://github.com/JohanJoestar333/JohanJoestar333/blob/main/programmingmarion.gif?raw=true"
   width="100%"
   alt="banner"
 />
@@ -34,7 +34,7 @@ this is where i put them.
 <!-- EDIT: what you're up to right now -->
 ### currently 🍃
 
-`making random things` · `breaking random things` · `learning something new` · `probably starting another project`
+`testing a fake store with real bugs` · `learning playwright` · `writing about qa on medium` · `probably starting another project`
 
 <br>
 
@@ -54,11 +54,11 @@ most of my free time goes to my girlfriend
 <!-- EDIT: swap for your own -->
 ### random facts 🍄
 
-- I have absolutely no idea what I’m doing until suddenly I do.
+- if a field says "required", i'm leaving it empty just to see what happens.
+- I click every button twice. old habit.
 - I’m weirdly competitive about things that absolutely do not matter.
 - I can remember a random conversation from three years ago but not what I had for lunch.
 - still not sure what half my browser tabs are for.
-- I have an unhealthy amount of confidence in my ability to figure things out as I go.
 
 <br>
 
@@ -69,6 +69,21 @@ most of my free time goes to my girlfriend
 <!-- EDIT: copy a block below to add a tool -->
 ### things i mess around with 🟢
 
+<a href="https://www.cypress.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Cypress-0d1117?style=for-the-badge&logo=cypress&logoColor=39d353" />
+</a>
+<a href="https://playwright.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=39d353" />
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=39d353" />
+</a>
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=39d353" />
+</a>
+
+<br>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39d353" />
 </a>
@@ -78,24 +93,34 @@ most of my free time goes to my girlfriend
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=39d353" />
 </a>
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Cypress-0d1117?style=for-the-badge&logo=cypress&logoColor=39d353" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39d353" />
 </a>
 
 <br>
 
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=39d353" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39d353" />
-</a>
 <a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d353" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
   <img src="https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=39d353" />
 </a>
+
+<br>
+<br>
+<br> 
+
+╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌ ╌
+
+<br>
+
+<!-- EDIT: your favorite projects. copy a line to add one. -->
+### stuff i've made 🌾
+
+🛒 **[pixelcart](https://github.com/JohanJoestar333/qa-project)**: a little clothing store i built to show how qa works inside a real team. jira, confluence, 128 test cases and some bugs i planted on purpose.<br>
+📒 **[qa workbook](https://portfolio-thomas-pessoa.vercel.app)**: a free excel template for writing test cases and tracking bugs. no macros, just dropdowns and a dashboard.<br>
+🌐 **[my portfolio](https://portfolio-thomas-pessoa.vercel.app)**: certificates, projects and a qa lab where you can go hunt bugs yourself.<br>
+💌 **[couples website](https://github.com/JohanJoestar333/girlfriend-website)**: a cozy shared corner for long-distance couples. not qa, just love.
 
 <br>
 <br>
@@ -133,21 +158,14 @@ most of my free time goes to my girlfriend
 <br>
 
 <!-- EDIT: your real links, delete any you don't want -->
-<a href="https://www.reddit.com/r/FuckNestle/comments/hmv0nv/the_reasons_why_we_hate_nestle_so_much/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" />
-</a>
-<a href="https://theuselessweb.com" target="_blank">
-  <img src="https://img.shields.io/badge/tiktok-0d1117?style=for-the-badge&logo=tiktok&logoColor=39d353" />
-</a>
-<a href="https://www.youtube.com/watch?v=R-3DRTQz4sk" target="_blank">
+<a href="https://www.linkedin.com/in/thomas-pessoa-tech/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
 </a>
-<a href="johannentrepreneur@gmail.com">
+<a href="https://portfolio-thomas-pessoa.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
+</a>
+<a href="mailto:johannentrepreneur@gmail.com">
   <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
-</a>
-</a>
-<a href="https://en.wikipedia.org/wiki/Unemployment">
-  <img src="https://img.shields.io/badge/facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=39d353" />
 </a>
 
 <br>
@@ -158,4 +176,4 @@ most of my free time goes to my girlfriend
 
 <br>
 
-<sub>probably working on something. 🌵</sub>
+<sub>probably testing something. 🌵</sub>
