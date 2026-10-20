@@ -159,7 +159,7 @@ most of my free time goes to my girlfriend
 
 <!-- EDIT: your real links, delete any you don't want -->
 <a href="https://www.linkedin.com/in/thomas-pessoa-tech/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
+  <img src="linkedin-badge.svg" alt="linkedin" />
 </a>
 <a href="https://portfolio-thomas-pessoa.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
