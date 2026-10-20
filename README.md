@@ -164,7 +164,7 @@ most of my free time goes to my girlfriend
 <a href="https://portfolio-thomas-pessoa.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
 </a>
-<a href="mailto:johannentrepreneur@gmail.com">
+<a href="mailto:tomecosabs@gmail.com">
   <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
 </a>
 
